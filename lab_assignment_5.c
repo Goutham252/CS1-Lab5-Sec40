@@ -1,3 +1,6 @@
+# Adding my first comment
+# Adding my second comment
+
 #include <stdio.h>
 #include <stdlib.h>
 
